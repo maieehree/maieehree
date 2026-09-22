@@ -5,8 +5,8 @@
 
   <br><br>
 
-  <!-- GIF เล่นอัตโนมัติ: Kamen Rider Kabuto Rider Kick จาก Tenor -->
-  <img src="https://c.tenor.com/WiIglctAyM8AAAAC/tenor.gif" width="480" style="border-radius: 8px;" alt="Kamen Rider Kabuto Rider Kick" />
+  <!-- GIF Kamen Rider Kabuto Rider Kick -->
+  <img src="https://media1.giphy.com/media/WiIglctAyM8AAAAC/source.gif" width="480" style="border-radius: 8px;" alt="Kamen Rider Kabuto Rider Kick" onerror="this.onerror=null;this.src='https://media.tenor.com/WiIglctAyM8AAAAC/kamen-rider-kabuto-rider-kick.gif';" />
 </div>
 
 <br>
