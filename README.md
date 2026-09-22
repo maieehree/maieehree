@@ -1,3 +1,4 @@
+![Uploading kamen-rider-kabuto-rider-kick.gif…]()
 <div align="center">
   <!-- Typing Effect สไตล์ Kabuto -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E74C3C&center=true&vCenter=true&width=620&lines=Walking+the+path+of+heaven,+ruling+everything;Hi+there,+I'm+maieehree+%E2%9A%A1;Clock+Up!+%E2%8F%B3;ONE...TWO...THREE...+RIDER+KICK!+%F0%9F%92%A5" alt="Kabuto Typing SVG" />
