@@ -1,13 +1,12 @@
+
 <div align="center">
- <img width="220" height="124" alt="kamen-rider-kabuto-rider-kick" src="https://github.com/user-attachments/assets/16358764-1c57-49d8-9252-4964f644d7db" />
-<div align="center">
-  <!-- Typing Effect สไตล์ Kabuto -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E74C3C&center=true&vCenter=true&width=620&lines=Walking+the+path+of+heaven,+ruling+everything;Hi+there,+I'm+maieehree+%E2%9A%A1;Clock+Up!+%E2%8F%B3;ONE...TWO...THREE...+RIDER+KICK!+%F0%9F%92%A5" alt="Kabuto Typing SVG" />
+  <!-- GIF Kamen Rider Kabuto จัดกึ่งกลาง ขยายขนาดให้ชัดพอดี -->
+  <img src="https://github.com/user-attachments/assets/16358764-1c57-49d8-9252-4964f644d7db" width="480" style="border-radius: 8px;" alt="kamen-rider-kabuto-rider-kick" />
 
   <br><br>
 
-  <!-- GIF Kamen Rider Kabuto Rider Kick -->
-  <img src="https://media.giphy.com/media/WiIglctAyM8AAAAC/source.gif" width="480" style="border-radius: 8px;" alt="Kamen Rider Kabuto Rider Kick" />
+  <!-- Typing Effect สไตล์ Kabuto จัดกึ่งกลาง -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E74C3C&center=true&vCenter=true&width=620&lines=Walking+the+path+of+heaven,+ruling+everything;Hi+there,+I'm+maieehree+%E2%9A%A1;Clock+Up!+%E2%8F%B3;ONE...TWO...THREE...+RIDER+KICK!+%F0%9F%92%A5" alt="Kabuto Typing SVG" />
 </div>
 
 <br>
@@ -89,3 +88,4 @@ Tech & AI Developer from Thailand working on AI-driven applications and full-sta
     </picture>
   </a>
 </p>
+```
