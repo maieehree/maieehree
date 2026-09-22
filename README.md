@@ -4,15 +4,8 @@
 
   <br><br>
 
-  <!-- ช็อตที่ 1: Clock Up -->
-  <img src="https://i.makeagif.com/media/2-13-2025/ODsTcP.gif" width="480" style="border-radius: 8px;" alt="Kamen Rider Kabuto Clock Up" />
-
-  <br><br>
-  
-  <p><b>⚡ <i>"ONE... TWO... THREE... RIDER KICK!"</i> ⚡</b></p>
-
-  <!-- ช็อตที่ 2: Rider Kick (จาก Tenor ที่คุณเลือก) -->
-  <img src="https://media1.tenor.com/m/WiIglctAyM8AAAAC/kamen-rider-kabuto-rider-kick.gif" width="480" style="border-radius: 8px;" alt="Kamen Rider Kabuto Rider Kick" />
+  <!-- GIF เล่นอัตโนมัติ: Kamen Rider Kabuto Rider Kick จาก Tenor -->
+  <img src="https://c.tenor.com/WiIglctAyM8AAAAC/tenor.gif" width="480" style="border-radius: 8px;" alt="Kamen Rider Kabuto Rider Kick" />
 </div>
 
 <br>
