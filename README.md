@@ -1,13 +1,28 @@
+<div align="center">
+  <!-- Typing Effect สไตล์ Kabuto -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E74C3C&center=true&vCenter=true&width=600&lines=Walking+the+path+of+heaven,+ruling+everything;Hi+there,+I'm+maieehree+%E2%9A%A1;AI+%26+Computer+Vision+Developer;Clock+Up!+%E2%8F%B3" alt="Kabuto Typing SVG" />
+
+  <br><br>
+
+  <!-- GIF Kamen Rider Kabuto -->
+  <img src="https://i.makeagif.com/media/2-13-2025/ODsTcP.gif" width="480" style="border-radius: 8px;" alt="Kamen Rider Kabuto Clock Up" />
+</div>
+
+<br>
+
 ===========================================================================================================================================
 
-### Hi there, I'm maieehree 👋
-**AI & Web Developer | Backend & Computer Vision Enthusiast**
+### 🔴 About Me
 
-CS / Tech Developer from Thailand working on AI-driven applications and full-stack solutions.
+> *"Obasan ga itteita... (คุณย่าเคยกล่าวไว้ว่า...)*  
+> *ก้าวเดินบนวิถีแห่งสวรรค์ และปกครองทุกสิ่ง"*
 
+Tech & AI Developer from Thailand working on AI-driven applications and full-stack solutions.
+
+* ⚡ **Clock Up!** Developing high-performance AI solutions
 * 🔭 Building **[palm-ai](https://github.com/maieehree/palm-ai)** (AI Oil Palm Fruit Analysis System using FastAPI & Vision Pipeline)
-* 💡 Interested in **Computer Vision**, **Edge AI / ONNX**, and **API Development**
-* ✉️ Contact me via GitHub Issues or Discussions
+* 💡 Focused on **Computer Vision**, **Edge AI / ONNX**, and **API Development**
+* 💬 Feel free to reach out via GitHub Issues or Discussions
 
 ---
 
@@ -55,8 +70,8 @@ CS / Tech Developer from Thailand working on AI-driven applications and full-sta
 ### 📊 GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maieehree&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maieehree&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maieehree&show_icons=true&theme=blood&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maieehree&layout=compact&theme=blood&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
 </p>
 
 ---
