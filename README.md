@@ -1,11 +1,18 @@
 <div align="center">
   <!-- Typing Effect สไตล์ Kabuto -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E74C3C&center=true&vCenter=true&width=600&lines=Walking+the+path+of+heaven,+ruling+everything;Hi+there,+I'm+maieehree+%E2%9A%A1;AI+%26+Computer+Vision+Developer;Clock+Up!+%E2%8F%B3" alt="Kabuto Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E74C3C&center=true&vCenter=true&width=620&lines=Walking+the+path+of+heaven,+ruling+everything;Hi+there,+I'm+maieehree+%E2%9A%A1;Clock+Up!+%E2%8F%B3;ONE...TWO...THREE...+RIDER+KICK!+%F0%9F%92%A5" alt="Kabuto Typing SVG" />
 
   <br><br>
 
-  <!-- GIF Kamen Rider Kabuto -->
+  <!-- ช็อตที่ 1: Clock Up -->
   <img src="https://i.makeagif.com/media/2-13-2025/ODsTcP.gif" width="480" style="border-radius: 8px;" alt="Kamen Rider Kabuto Clock Up" />
+
+  <br><br>
+  
+  <p><b>⚡ <i>"ONE... TWO... THREE... RIDER KICK!"</i> ⚡</b></p>
+
+  <!-- ช็อตที่ 2: Rider Kick (จาก Tenor ที่คุณเลือก) -->
+  <img src="https://media1.tenor.com/m/WiIglctAyM8AAAAC/kamen-rider-kabuto-rider-kick.gif" width="480" style="border-radius: 8px;" alt="Kamen Rider Kabuto Rider Kick" />
 </div>
 
 <br>
